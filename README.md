@@ -35,5 +35,3 @@ An automated Pull Request review agent powered by Multi-Agent AI (Gemini 2.5).
 3. **Generate Review**:
    Enter the repository name (e.g., `owner/repo`) and PR number to get a review.
 
-## Created By
-Arpit Joshi
